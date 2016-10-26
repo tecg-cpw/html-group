@@ -5,9 +5,13 @@
 ## Consignes
 
 Le travail consiste, pour chacun d’entre vous à créer deux pages html :
-1. une page qui vous présente (selon le fichier rendu qui vous a été donné, voir [rendu.jpg](rendu.jpg)).2. une page d’index qui présente votre groupe
-La structurePour réaliser cet exercice vous aurez besoin :
-* Une image d'arrière-plan au format paysage qui sera introduite dans le CSS (min 1024px / max 1920px pour le bord large).
+
+1. une page qui vous présente (selon le fichier rendu qui vous a été donné, voir [rendu.jpg](rendu.jpg)).
+2. une page d’index qui présente votre groupe
+
+Pour réaliser cet exercice vous aurez besoin :
+
+* Une image d'arrière-plan au format paysage qui sera introduite dans le CSS (min 1024px / max 1920px pour le bord large).
 * Deux photos de profil (maximum 600px pour le bord large)
 * Une image d'arrière-plan au format paysage pour la citation (max 800px).
 * 16 images au format carré pour la galerie (max 400px).
