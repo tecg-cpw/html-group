@@ -1,5 +1,4 @@
-# html-relative-paths
-HTML exercise about (relative) paths
+# Le site du groupe
 
 * * *
 
