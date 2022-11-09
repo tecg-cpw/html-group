@@ -12,7 +12,7 @@
 
 ## Le site du groupe
 
-Le travail consiste, pour chacun d’entre vous à créer deux pages html :
+Le travail consiste, pour chacun d’entre vous à créer deux pages HTML :
 
 1. une page qui vous présente (selon le fichier rendu qui vous a été donné, voir [rendu.jpg](rendu.jpg)).
 2. une page d’index qui présente votre groupe
